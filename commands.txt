@@ -1,0 +1,9 @@
+ls -a  - a means shown hidden files
+git init  -- initilizae empty git repo - capture the ( it will be hidden)
+git commit -m   - commit changes and - m "prefer message" 
+git status - will display the changes which are not committed and status
+Git add   - add a file to commit 
+git restore --staged <filename>
+ 
+touch  < file name>  - command to create file
+cat <filename> - to view the file
